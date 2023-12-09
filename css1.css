@@ -1,0 +1,110 @@
+
+/* text css above hero image*/
+
+
+
+nav{
+  background-color: white;
+
+}
+#navbarTogglerDemo02{
+  justify-content: space-around;
+}
+
+.content img{
+  height: 20px;
+  width:20px;
+  margin: 2px;
+
+}
+
+.content button{
+  border-radius: 2rem;
+  height:40px;
+  width: 150px;
+
+}
+
+.content li{
+  margin-top: 4px;
+  margin-bottom: 4px;
+
+
+}
+
+.heroimage img{
+  float: right;
+  height: 300px;
+  width:300px;
+  border-radius: 11rem;
+}
+
+.bgimage {
+    height:100vh;
+    
+    background-size:cover;
+    position:relative;
+}
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+}
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-github:hover {
+    color: #008000;
+}
+.fab {
+    color: #000000;
+}
+/* footer styling */
+#footer {
+    background-color: #808080;
+    text-align: center;
+}
+#about, #services, #portfolio, #contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+  }
+  #contact {
+    padding-bottom: 4rem;
+  }
+  .skill{
+    width:500px;
+    margin: 30px;
+    padding: 10px;
+  
+    box-shadow:#000000;
+    border-radius: 2rem;
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+  }
+  ul{
+    list-style: none;
+  }
+  .mskill{
+    width:500px;
+    margin: 60px;
+    padding: 2opx;
+   
+    ;
+  }
+
+    
+    
+
+  
+
